@@ -1,0 +1,4 @@
+BOS my sister is playing with a doll . EOS
+BOS 我 妹 妹 正 在 玩 洋 娃 娃 。 EOS
+translation: 我 妹 妹 在 做 一 個 漂 亮 的 娃 娃 。
+

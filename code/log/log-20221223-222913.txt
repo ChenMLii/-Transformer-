@@ -1,0 +1,4 @@
+BOS i have a pair of red shoes . EOS
+BOS 我 有 一 双 红 鞋 子 。 EOS
+translation: 我 有 一 双 红 色 。
+
